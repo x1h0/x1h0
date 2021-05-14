@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **x1h0/x1h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
